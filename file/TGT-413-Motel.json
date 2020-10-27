@@ -1,0 +1,44 @@
+﻿[
+        {
+            "No": "01",
+            "Category": "摩鐵",
+            "Area": "桃園區",
+            "Name": "168inn旅館集團-桃園潮旅館",
+            "Address": "桃園市桃園區大興西路二段69巷12號",
+            "Tel": "03-301-2220",
+            "Figure": "fig/TGT-4131-Motel-01.jpg",
+            "Link": "https://168inn.com.tw/hotel_introduction.php?hotel_sn=14"
+        },
+        {
+            "No": "02",
+            "Category": "摩鐵",
+            "Area": "中壢區",
+            "Name": "摩斯時尚汽車旅館",
+            "Address": "桃園市中壢區中園路75號",
+            "Tel": "03-435-1919",
+            "Figure": "fig/TGT-4131-Motel-02.jpg",
+            "Link": "http://www.mosmotel.com.tw/"
+        },
+        {
+            "No": "03",
+            "Category": "摩鐵",
+            "Area": "新屋區",
+            "Name": "g66汽車旅館",
+            "Address": "桃園市新屋區梅高路二段551巷10號",
+            "Tel": "03-490-9077",
+            "Figure": "fig/TGT-4131-Motel-03.jpg",
+            "Link": "http://www.g66motel.com/"
+        },
+        {
+            "No": "04",
+            "Category": "摩鐵",
+            "Area": "桃園區",
+            "Name": "I DO 頂級汽車旅館",
+            "Star": "3",
+            "Price": "8,657",
+            "Address": "桃園市桃園市桃園區經國路 299 號",
+            "Tel": "886 - 3 - 315 - 1666 ",
+            "Figure": "fig/TGT-4131-Motel-04.jpg",
+            "Link": "http://www.idomotel.com.tw/"
+        }
+    ]

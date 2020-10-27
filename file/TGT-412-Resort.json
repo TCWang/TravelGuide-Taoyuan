@@ -1,0 +1,62 @@
+﻿[
+        {
+            "No": "01",
+            "Category": "渡假旅館",
+            "Area": "大溪區",
+            "Name": "桃園縣桃園市大溪區日新路 166 號",
+            "Star": "5",
+            "Price": "6,500",
+            "Address": "桃園縣桃園市大溪區日新路 166 號",
+            "Tel": "886 3 272 5777",
+            "Figure": "fig/TGT-4121-Resot-01.jpg",
+            "Link": "https://www.lifutashee.com.tw/"
+        },
+        {
+            "No": "02",
+            "Category": "渡假旅館",
+            "Area": "龍潭區",
+            "Name": "名人堂花園大飯店",
+            "Star": "4",
+            "Price": "5,022",
+            "Address": "桃園市龍潭區民生路 141 巷 150 號",
+            "Tel": "886-3-433-9090",
+            "Figure": "fig/TGT-4121-Resot-02.jpg",
+            "Link": "https://www.fhgh.com.tw/cht/hotelindex"
+        },
+        {
+            "No": "03",
+            "Category": "渡假旅館",
+            "Area": "中壢區",
+            "Name": "南方莊園渡假飯店 ",
+            "Star": "4",
+            "Price": "4,456",
+            "Address": "桃園縣桃園市中壢區樹籽路8號",
+            "Tel": "886-3-420-2122",
+            "Figure": "fig/TGT-4121-Resot-03.jpg",
+            "Link": "http://www.southgarden.com.tw/zh_TW"
+        },
+        {
+            "No": "04",
+            "Category": "渡假旅館",
+            "Area": "中壢區",
+            "Name": "和逸飯店",
+            "Star": "3.5",
+            "Price": "4,505",
+            "Address": "桃園市中壢區春德路 101 號",
+            "Tel": "886-3-273-7688",
+            "Figure": "fig/TGT-4121-Resot-04.jpg",
+            "Link": "https://hotelcozzi.com/%E6%A1%83%E5%9C%92%E9%A4%A8/"
+        },
+        {
+            "No": "05",
+            "Category": "渡假旅館",
+            "Area": "楊梅區",
+            "Name": "東森山林渡假酒店 ",
+            "Star": "3.5",
+            "Price": "2,595",
+            "Address": "桃園縣桃園市楊梅區東森路 3 號",
+            "Tel": "0800-889-168",
+            "Figure": "fig/TGT-4121-Resot-05.jpg",
+            "Link": "https://www.lidoresort.com.tw/"
+        }
+    ]

@@ -1,0 +1,74 @@
+﻿[
+        {
+            "No": "01",
+            "Category": "旅館",
+            "Area": "大園區",
+            "Name": "台北諾富特華航桃園機場飯店 ",
+            "Star": "4,5",
+            "Price": "3,429",
+            "Address": "桃園市大園區航站南路 1-1 號",
+            "Tel": "886-3-398-0888",
+            "Figure": "fig/TGT-4111-Hotel-01.jpg",
+            "Link": "https://www.novoteltaipeiairport.com/tw/"
+        },
+        {
+            "No": "02",
+            "Category": "旅館",
+            "Area": "蘆竹區",
+            "Name": "尊爵天際大飯店",
+            "Star": "4",
+            "Price": "3,124",
+            "Address": "桃園市蘆竹區南崁路 1 段 108 號",
+            "Tel": "886-3-212-1001 ",
+            "Figure": "fig/TGT-4111-Hotel-02.jpg",
+            "Link": "http://www.skyline-hotels.com.tw/tw/"
+        },
+        {
+            "No": "03",
+            "Category": "旅館",
+            "Area": "龜山區",
+            "Name": "福容大飯店 - 桃園機場捷運 A8",
+            "Star": "4",
+            "Price": "2,944",
+            "Address": "桃園市龜山區復興一路 2 號",
+            "Tel": "886-3-328-5688",
+            "Figure": "fig/TGT-4111-Hotel-03.jpg",
+            "Link": "https://www.fullon-hotels.com.tw/a8/tw/"
+        },
+        {
+            "No": "04",
+            "Category": "旅館",
+            "Area": "桃園區",
+            "Name": "尊爵大飯店",
+            "Star": "4.5",
+            "Price": "2,574",
+            "Address": "桃園市桃園區莊敬路一段 300 號",
+            "Tel": "886-3-316-9900",
+            "Figure": "fig/TGT-4111-Hotel-04.jpg",
+            "Link": "http://www.monarch-hotels.com.tw/"
+        },
+        {
+            "No": "05",
+            "Category": "旅館",
+            "Area": "中壢區",
+            "Name": "中壢米堤大飯店",
+            "Star": "4",
+            "Price": "2,267",
+            "Address": "桃園市中壢區中央西路一段 120 號 23 樓",
+            "Tel": "886-3-427-9966",
+            "Figure": "fig/TGT-4111-Hotel-05.jpg",
+            "Link": "http://www.lemidi-hotel.com/"
+        },
+        {
+            "No": "06",
+            "Category": "旅館",
+            "Area": "桃園區",
+            "Name": "桃花園飯店",
+            "Star": "4",
+            "Price": "1,559",
+            "Address": "桃園市桃園區復興路151號",
+            "Tel": "886-3-286-8333",
+            "Figure": "fig/TGT-4111-Hotel-06.jpg",
+            "Link": "http://www.taogarden.com.tw/"
+        }
+    ]
