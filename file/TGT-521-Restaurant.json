@@ -1,0 +1,177 @@
+﻿[
+        {
+            "No": "01",
+            "Category": "桃園",
+            "Area": "中壢區",
+            "Name": "河馬水產",
+            "Address": "桃園市中壢區高鐵北路二段2號",
+            "Tel": "03-287-3600",
+            "Hours": "11:00 - 21:30",
+            "Figure": "fig/TGT-5201-Restaurant-01.jpg",
+            "Link": "https://www.facebook.com/homaseafood"
+        },
+        {
+            "No": "02",
+            "Category": "桃園",
+            "Area": "桃園區",
+            "Name": "肉多多火鍋（桃園中正店）",
+            "Address": "桃園市桃園區中正路909號",
+            "Tel": "03-325-7707",
+            "Hours": "週一～五 11：30～15：00、17：00～23：00；週六日 11：30～23：00",
+            "Figure": "fig/TGT-5201-Restaurant-02.jpg",
+            "Link": "http://www.twrododo.com/"
+        },
+        {
+            "No": "03",
+            "Category": "桃園",
+            "Area": "桃園區",
+            "Name": "村民食堂",
+            "Address": "桃園市桃園區中正路1078號",
+            "Tel": "03-316-3838",
+            "Hours": "週一～日 11：00～22：00",
+            "Figure": "fig/TGT-5201-Restaurant-03.jpg",
+            "Link": "https://www.facebook.com/villager1078/"
+        },
+        {
+            "No": "04",
+            "Category": "桃園",
+            "Area": "桃園區",
+            "Name": "八條壽司",
+            "Address": "桃園市桃園區南平路302號",
+            "Tel": "03-358-1380",
+            "Hours": "週一～五 17：00～22：00，週六日11：00～14：00、16：30～22：00",
+            "Figure": "fig/TGT-5201-Restaurant-04.jpg",
+            "Link": "https://www.batiau.com.tw/"
+        },
+        {
+            "No": "05",
+            "Category": "桃園",
+            "Area": "桃園區",
+            "Name": "一品活蝦（桃園店）",
+            "Address": "桃園市桃園區南平路290號",
+            "Tel": "03-357-7779",
+            "Hours": "週一～五 18：00～02：00，週六 12：00～01：00，週日12：00～23：00",
+            "Figure": "fig/TGT-5201-Restaurant-05.jpg",
+            "Link": "https://www.facebook.com/ericsson660507/"
+        },
+        {
+            "No": "06",
+            "Category": "桃園",
+            "Area": "桃園區",
+            "Name": "泰集 Thai Bazaar（桃園藝文店）",
+            "Address": "桃園市桃園區同德五街61號3樓",
+            "Tel": "03-34- 0158",
+            "Hours": "週一至週日 11：30～14：30、17：30～22：00",
+            "Figure": "fig/TGT-5201-Restaurant-06.jpg",
+            "Link": "https://www.facebook.com/bazaarthai/"
+        },
+        {
+            "No": "07",
+            "Category": "桃園",
+            "Area": "桃園區",
+            "Name": "提拉米蘇精緻蛋糕（桃園店）",
+            "Address": "桃園市桃園區中正路887號",
+            "Tel": "03-356-9690",
+            "Hours": "週一～日 10：00～20：00",
+            "Figure": "fig/TGT-5201-Restaurant-07.jpg",
+            "Link": "https://www.tiramisu.com.tw/"
+        },
+        {
+            "No": "08",
+            "Category": "桃園",
+            "Area": "桃園區",
+            "Name": "覓燒肉",
+            "Address": "桃園市桃園區莊敬路一段313號",
+            "Tel": "03-325-5313",
+            "Hours": "週一～五 17：00～00：00；週六日12：00～15：00、17：00～00：00",
+            "Figure": "fig/TGT-5201-Restaurant-08.jpg",
+            "Link": "https://miyakiniku.blogspot.com/?fbclid=IwAR3WVZ_X1ZGuYiIGWWT2tbphATofVErXiixSW2HUKmajbaohI2ppvXRZQyY"
+        },
+        {
+            "No": "09",
+            "Category": "桃園",
+            "Area": "桃園區",
+            "Name": "布納咖啡館",
+            "Address": "桃園市桃園區中正路1061號",
+            "Tel": "03-355-7749",
+            "Hours": "週一～日 10：00～23：00",
+            "Figure": "fig/TGT-5201-Restaurant-09.jpg",
+            "Link": "https://www.buna.com.tw/"
+        },
+        {
+            "No": "10",
+            "Category": "桃園",
+            "Area": "桃園區",
+            "Name": "圓味涮涮鍋（桃園大興店）",
+            "Address": "桃園市桃園區大興西路一段325號",
+            "Tel": "03-358-7132",
+            "Hours": "週一～日 11：30～15：00、17：30～22：00",
+            "Figure": "fig/TGT-5201-Restaurant-10.jpg"
+        },
+        {
+            "No": "11",
+            "Category": "桃園",
+            "Area": "蘆竹區",
+            "Name": "原烧 - 桃园台茂店",
+            "Address": "桃園 蘆竹區南崁路一段112號6樓",
+            "Tel": "03-222-1668",
+            "Hours": "11:00 - 22:00",
+            "Figure": "fig/TGT-5201-Restaurant-11.jpg",
+            "Link": "http://www.yakiyan.com/"
+        },
+        {
+            "No": "12",
+            "Category": "桃園",
+            "Area": "桃園區",
+            "Name": "王品 - 桃园同德店",
+            "Address": "桃园市桃园区同德五街69号3楼 ",
+            "Tel": "03-356-1887",
+            "Hours": "11:30–14:30, 17:30–22:00",
+            "Figure": "fig/TGT-5201-Restaurant-12.jpg",
+            "Link": "https://www.wangsteak.com.tw/?fbclid=IwAR2AdqtgrNJ3DPWk_FDzIvy336gozEg-_usj5XYlcErKPZUPYv4OTJW92vM"
+        },
+        {
+            "No": "13",
+            "Category": "桃園",
+            "Area": "蘆竹區",
+            "Name": "漢來海港餐廳 桃園台茂店",
+            "Address": "\r\n桃園市蘆竹區南崁路一段112號6F ",
+            "Tel": "07-412-8068",
+            "Hours": "午　餐 – 11:30 ~ 14:00\r\n下午餐 – 14:30 ~ 16:30\r\n晚　餐 – 17:30 ~ 21:30",
+            "Figure": "fig/TGT-5201-Restaurant-13.jpg",
+            "Link": "http://www.hilai-foods.com/zh_TW/brand/harbour/Tao-Yuan-Dian"
+        },
+        {
+            "No": "14",
+            "Category": "桃園",
+            "Area": "中坜区",
+            "Name": "陶板屋 - 中坜中山店",
+            "Address": "桃園 中坜区中山路111号2楼 ",
+            "Tel": "03-280-7070",
+            "Hours": "11:30–14:30, 17:30–22:00",
+            "Figure": "fig/TGT-5201-Restaurant-14.jpg",
+            "Link": "https://www.tokiya.com.tw/"
+        },
+        {
+            "No": "15",
+            "Category": "桃園",
+            "Area": "桃園區",
+            "Name": " Fridays 星期五餐廳 桃園店",
+            "Address": "桃園市桃園區中正路1117號 ",
+            "Tel": "03-326-3579",
+            "Hours": "11:00 - 22:00",
+            "Figure": "fig/TGT-5201-Restaurant-15.jpg",
+            "Link": "https://tgifridays.com.tw/index.php/zh/"
+        },
+        {
+            "No": "16",
+            "Category": "桃園",
+            "Area": "蘆竹區",
+            "Name": "添好運(桃園台茂店)",
+            "Address": "桃園 芦竹区南崁路一段112号 台茂购物中心1F",
+            "Tel": "03-311-8678",
+            "Hours": "11:00 - 22:00",
+            "Figure": "fig/TGT-5201-Restaurant-16.jpg",
+            "Link": "http://www.timhowan.com.tw/store/list/taoyuan"
+        }
+    ]

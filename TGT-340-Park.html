@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/TGT-01-Template03.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/TGT-01-Template02.dwt" codeOutsideHTMLIsLocked="false" -->
 
 <head>
   <meta charset="UTF-8">
@@ -18,8 +18,8 @@
   <!-- My CSS file -->
   <link rel="stylesheet" href="css/mycss.css">
   <!-- InstanceBeginEditable name="doctitle" -->
-  <title>智慧旅遊 －桃園旅遊資訊</title>
-  <meta name="description" content="桃園旅遊資訊網">
+  <title>桃園導遊 - 公園綠地</title>
+  <meta name="description" content="桃園公園綠地">
   <!-- InstanceEndEditable -->
 
 <!-- InstanceBeginEditable name="head" -->
@@ -127,8 +127,8 @@
 	<div class="jumbotron jumbotron-fluid jumbotron-bg3 d-flex align-items-end">
 		<div class="container">        
 			<div class="bg-lighter p-1" style="width:300px">
-			  <h4 class="text-white" >桃園旅遊</h4>
-			  <p class="lead text-white">發現桃園旅遊景點</p>
+			  <h4 class="text-white" >桃園公園綠地</h4>
+			  <p class="lead text-white">最好的社區公園建設在桃園</p>
 			</div>
 		</div>
 	</div>
@@ -137,7 +137,7 @@
 
 	<!-- Web Page Title -->
 	<!-- InstanceBeginEditable name="main_heading" -->
-	<h2 id="main_heading">桃園旅遊資訊</h2>
+	<h2>桃園公園綠地</h2>
 	<!-- InstanceEndEditable -->
 	  
 	<!-- Vue實例的掛載點 -->
@@ -149,10 +149,10 @@
               	<h5>類別</h5>
 
 				<div class="list-group" id="MenuList" role="tablist">
-				  <a href="#Article-01" class="list-group-item list-group-item-action active" data-toggle="list">旅遊資訊</a>
-				  <a href="#Article-02" class="list-group-item list-group-item-action" data-toggle="list">旅遊地圖</a>
-				  <a href="#Article-03" class="list-group-item list-group-item-action" data-toggle="list">節慶活動</a>
-				  <a href="#Article-04" class="list-group-item list-group-item-action" data-toggle="list">購物中心</a>
+				  <a href="#Article-01" class="list-group-item list-group-item-action active" data-toggle="list">公園匯總</a>
+				  <a href="#Article-02" class="list-group-item list-group-item-action" data-toggle="list">八德生態公園</a>
+				  <a href="#Article-03" class="list-group-item list-group-item-action" data-toggle="list">類別2</a>
+				  <a href="#Article-04" class="list-group-item list-group-item-action" data-toggle="list">類別3</a>
 				</div>
 			</aside>
           </div>
@@ -162,36 +162,32 @@
             <!-- Articla 01-->
               <div class="tab-pane active" id="Article-01" role="tabpanel">
                 <article>
-                  	<h3>旅遊資訊</h3>
+                  	<h3>公園匯總</h3>
 					<section>
-						<div class="row">
-							<div class="col-md-12 col-lg-6">
-								<h5>旅遊官網</h5>
-								<ul>
-									<li>
-										<a href="https://travel.tycg.gov.tw/zh-tw">桃園觀光導覽網</a>
-									</li>
-									<li>
-										<a href="https://www.taiwan.net.tw/">交通部觀光局網站</a>
-									</li>
-								</ul>
-							
+						<div id='app1' class="row" v-for="posts in results">
+							<div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4" v-for="post in posts">
+								<div class="card">
+									<div class="card-header">
+										<a v-bind:href="post.Link">
+											{{ post.Name }}
+										</a>
+									</div>
+									<div class="card-body">
+										<p class="card-text">
+										<dl>
+											<dd>地區：{{post.Area}}</dd>
+											<dd>地址：{{post.Address}} </dd>
+											<dd>電話：{{post.Tel}}</dd>
+											<dd>開放時間：{{post.Hours}}</dd>
+											<dd>收費：{{post.Price}} </dd>											
+										</dl>
+										<img v-bind:src="post.Figure" class="img-fluid">
+
+
+										</p>
+									</div>
+								</div>
 							</div>
-							<div class="col-md-12 col-lg-6">
-								<h5>旅遊網站</h5>
-								<ul>
-									<li>
-										<a href="https://okgo.tw/buty/taoyuan.html">玩全台灣</a>
-									</li>
-									<li>
-										<a href="https://www.funtime.com.tw/blog/funtime/%E5%85%8D%E8%B2%BB%E9%81%8A%E6%A1%83%E5%9C%92%EF%BC%81%E5%85%A7%E8%A1%8C%E4%BA%BA%E8%B6%85%E6%8E%A8%E8%96%A6%E7%9A%84%E6%A1%83%E5%9C%92%E8%B6%85%E5%A4%AF%E4%BA%BA%E6%B0%A3%E6%99%AF%E9%BB%9E%E5%A4%A7">FunTime</a>
-									</li>
-									<li>
-										<a href="https://imreadygo.com/36828">ReadyGo</a>
-									</li>
-								</ul>
-							
-							</div>							
 						</div>
 					</section>
 
@@ -202,16 +198,9 @@
               <!-- Articla 02-->
               <div class="tab-pane" id="Article-02" role="tabpanel">
                 <article>
-				  <h3>旅遊地圖</h3>
+				  <h3>八德生態公園</h3>
 					<section>
-						<div class="row">
-							<div class="col-md-12 col-lg-6">
-							
-							</div>
-							<div class="col-md-12 col-lg-6">
-							
-							</div>							
-						</div>
+
 					</section>
 
 				</article>
@@ -220,16 +209,9 @@
               <!-- Articla 03-->
               <div class="tab-pane " id="Article-03" role="tabpanel">
                 <article>
-					<h3>節慶活動</h3>
+					<h3>類別2</h3>
 					<section>
-						<div class="row">
-							<div class="col-md-12 col-lg-6">
-							
-							</div>
-							<div class="col-md-12 col-lg-6">
-							
-							</div>							
-						</div>
+
 					</section>
 
                 </article>
@@ -238,16 +220,10 @@
               <!-- Articla 04-->
               <div class="tab-pane " id="Article-04" role="tabpanel">
                 <article>
-					<h3>購物中心</h3>
+					<h3>類別3</h3>
 					<section>
-						<div class="row">
-							<div class="col-md-12 col-lg-6">
-							
-							</div>
-							<div class="col-md-12 col-lg-6">
-							
-							</div>							
-						</div>
+
+
 					</section>
 
                 </article>
@@ -289,7 +265,50 @@
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
     <!-- InstanceBeginEditable name="vue control program" -->
     <div>
-      <!-- Vue實例的程式碼 -->
+		<!-- Vue實例的程式碼 -->
+		<script>
+			const posts = []
+
+			const SECTIONS_Group = "觀光，登山步道，公園綠地"
+
+
+			new Vue({
+				el: '#app1',
+				data: {
+					posts,
+					// results: [],
+					sections: SECTIONS_Group.split(', '),
+					section: '公園綠地'
+				},
+				filter: {
+					formatted(value) {
+						return ' 以下是 ${value} 類別的貼文 '
+					}
+				},
+
+				computed: {
+					results() {
+						let posts = this.posts
+							.slice()
+							.filter(post => post.Type === this.section)
+						let i, j, chunkedArray = [], chunk = 30;
+						for (i = 0, j = 0; i < posts.length; i += chunk, j++) {
+							chunkedArray[j] = posts.slice(i, i + chunk);
+						}
+						return chunkedArray
+					}
+				},
+
+				mounted() {
+					axios.get('file/TGT-321-TaoyuanSightseeing.json').then((response) => {
+						this.posts = response.data;
+						this.getPostsByCategory(this.section)
+					}).catch(error => { console.log(error); });
+				},
+
+			});
+
+		</script>
     </div>
     <!-- InstanceEndEditable -->
 </body>

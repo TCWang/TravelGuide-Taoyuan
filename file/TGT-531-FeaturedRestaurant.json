@@ -1,0 +1,24 @@
+﻿[
+        {
+            "No": "01",
+            "Category": "桃園",
+            "Area": "龍潭區",
+            "Name": "蘭亭映月 ",
+            "Address": "桃園市龍潭區中正路三坑段650號",
+            "Tel": "03-471-1212",
+            "Hours": "11:30-15:00, 17:30-21:00",
+            "Figure": "fig/TGT-5301-FeaturedRestaurant-01.jpg",
+            "Link": "https://www.facebook.com/LantingMoon/"
+        },
+        {
+            "No": "02",
+            "Category": "桃園",
+            "Area": "龍潭區",
+            "Name": "甘旨肥濃",
+            "Address": "龍潭區渴望二路99巷292號",
+            "Tel": "03-407-2263",
+            "Hours": "12:00-15:00, 18:00-21:00",
+            "Figure": "fig/TGT-5301-FeaturedRestaurant-02.jpg",
+            "Link": "https://www.facebook.com/%E7%94%98%E6%97%A8%E8%82%A5%E6%BF%83-%E6%A1%83%E5%9C%92%E9%BE%8D%E6%BD%AD%E5%89%B5%E6%84%8F%E6%87%B7%E7%9F%B3%E6%96%99%E7%90%86-1659033371033538/"
+        }
+    ]
