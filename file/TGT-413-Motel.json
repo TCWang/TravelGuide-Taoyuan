@@ -37,8 +37,19 @@
             "Star": "3",
             "Price": "8,657",
             "Address": "桃園市桃園市桃園區經國路 299 號",
-            "Tel": "886 - 3 - 315 - 1666 ",
+            "Tel": "03-315-1666 ",
             "Figure": "fig/TGT-4131-Motel-04.jpg",
             "Link": "http://www.idomotel.com.tw/"
+        },
+        {
+            "No": "05",
+            "Category": "摩鐵",
+            "Area": "中壢區",
+            "Name": "7星國際汽車旅館",
+            "Price": "2,480",
+            "Address": "桃園市中壢區中華路二段152號",
+            "Tel": "03-463-6666",
+            "Figure": "fig/TGT-4131-Motel-05.jpg",
+            "Link": "https://www.xn--7-bg0b367bti1c.tw/"
         }
     ]
